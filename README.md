@@ -3,3 +3,5 @@
 * watch series 
 * DYI projects
 * online courses
+* watch movies
+* listen music
