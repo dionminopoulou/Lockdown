@@ -1,5 +1,5 @@
 # During Lockdown
 * read books
 * watch series 
-* Do some DYI projects
+* DYI projects
 * online courses
